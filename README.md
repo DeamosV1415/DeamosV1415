@@ -171,6 +171,11 @@ Manual process  →  Agent  →  Done at 3am  →  You wake up to results
 </div>
 
 <div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=DeamosV1415&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=ffffff" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DeamosV1415&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="49%"/>
+</div>
+
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeamosV1415&theme=tokyonight" width="100%"/>
 </div>
 
