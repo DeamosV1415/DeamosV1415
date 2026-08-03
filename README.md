@@ -167,13 +167,11 @@ Manual process  →  Agent  →  Done at 3am  →  You wake up to results
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeamosV1415&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=6366f1&fire=f59e0b&currStreakLabel=ffffff&sideLabels=ffffff&dates=6b7280" width="500"/>
-
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeamosV1415&count_private=true&show_icons=true&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeamosV1415&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
