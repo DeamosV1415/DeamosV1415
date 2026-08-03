@@ -173,7 +173,7 @@ Manual process  →  Agent  →  Done at 3am  →  You wake up to results
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeamosV1415&theme=tokyonight" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DeamosV1415&count_private=true&show_icons=true&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
